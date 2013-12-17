@@ -70,6 +70,8 @@ GEM
     figaro (0.7.0)
       bundler (~> 1.0)
       rails (>= 3, < 5)
+    font-awesome-rails (4.0.3.0)
+      railties (>= 3.2, < 5.0)
     haml (4.1.0.alpha.2)
       tilt
     haml-rails (0.4)
@@ -192,6 +194,7 @@ DEPENDENCIES
   email_spec
   factory_girl_rails
   figaro
+  font-awesome-rails
   haml-rails
   haml2slim
   html2haml

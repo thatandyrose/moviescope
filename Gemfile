@@ -12,6 +12,7 @@ gem 'figaro'
 gem 'pg'
 gem 'slim'
 gem 'thin'
+gem 'font-awesome-rails'
 
 group :development do
   gem 'better_errors'
